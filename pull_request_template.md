@@ -1,16 +1,22 @@
-<!-- If this is your first pull request for TCR please read the contributor docs at:
-https://github.com/murex/TCR/blob/main/CONTRIBUTING.md.
-Be sure that your work is based off `develop` branch. --> 
+<!-- If this is your first pull request for this project, please read the contributor docs at:
+https://github.com/murex/.github/blob/main/CONTRIBUTING.md. --> 
 
-### Description:
-<!-- A summary of the change included and which issue it addresses.
-Please include any relevant motivation and background. -->
+# Description:
+<!-- Please include a summary of the change and which issue is fixed. 
+Please also include relevant motivation and context. List any dependencies 
+that are required for this change. -->
 
 Fixes #(issue)
 
-### Checklist:
-<!-- Please tick these as appropriate using [x] -->
+## Type of change
+<!-- Please tick the appropriate option using [x] -->
+
+- [ ] Bug fix
+- [ ] New feature
+
+# Checklist:
+<!-- Please tick the appropriate options using [x] -->
 
 - [ ] Tests included.
 - [ ] Lint and formatter run with no errors.
-- [ ] Tests all pass.
+- [ ] All tests are passing.
